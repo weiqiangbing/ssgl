@@ -3,7 +3,7 @@
 * 1. 加载mongodb
 * 2. 创建mongodb客户端
 * 3. 链接本机的mongodb数据库===》对数据库的链接
-*
+* 4. 部署测试
 * */
 // 加载mongodb
 var mongo=require("mongodb");
